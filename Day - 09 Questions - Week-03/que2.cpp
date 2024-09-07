@@ -9,6 +9,5 @@ int main(){
     for(int i=0;i<6;i++){
         cout<<ptr[i]<<" ";
     }
+    return 0;
 }
-
-// Ques 3: Create a program that demonstrates the use of a pointer to a pointer. Declare an integer variable, a pointer to the integer, and a pointer to that pointer. Use all three to print the value of the integer.
